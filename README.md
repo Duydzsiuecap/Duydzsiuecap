@@ -12,7 +12,7 @@
 - Không có gì ngoài CTRL V VÀ CTRL C 
 - **Ngôn ngữ lập trình**: Cho Trẻ Con 
 - **Cơ sở dữ liệu**: SQL Sever
-- **Công cụ**: Git, Docker, Visual Studio Code
+- **Công cụ**: Git, Visual Studio Code
 
 
 Cảm ơn bạn đã ghé thăm!
