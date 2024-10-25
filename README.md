@@ -18,6 +18,6 @@ Mời bạn nghe nhạc tham quan :
 
 <p align="center">
     <a href="https://youtu.be/Pond-cMxaIY?si=F8sWeIOekYqBxkgD">
-        <img src="https://img.youtube.com/vi/Pond-cMxaIY/maxresdefault.jpg" alt="Xem video" style="width: 320px; height: auto;">
+        <img src="https://img.youtube.com/vi/Pond-cMxaIY/maxresdefault.jpg" alt="Xem video" style="width: 520px; height: auto;">
     </a>
 </p>
