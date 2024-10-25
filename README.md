@@ -1,10 +1,10 @@
-## Xin chào! Tôi là **[LÊ THẾ DUY]** 💪🤝🙌
+## Xin chào! Tôi là **LÊ THẾ DUY** 💪🤝🙌
+
+## Về tôi!
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0031371d-d963-4eba-ad2c-d93578ed52f1" alt="wallpapersden com_black-clover-hd-zenon-alone_3840x1970"/>
+    <img src="https://github.com/user-attachments/assets/b6e52e3b-216c-4b38-a187-311c3d0cf4fb" alt="Profile Image" style="max-width: 100%; height: auto;">
 </p>
-
-## Về tôi
 
 Không có gì ngoài CTRL V VÀ CTRL C 
 
