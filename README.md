@@ -13,10 +13,10 @@
 - **Công cụ**: Git, Visual Studio Code
 
 Cảm ơn bạn đã ghé thăm!
+Mời bạn nghe nhạc tham quan :
 
 <p align="center">
-    <video width="320" height="240" controls>
-        <source src="https://github.com/user-attachments/assets/9eb875f6-2c05-4fc0-a752-b89c0f493d76" type="video/mp4">
-        Trình duyệt của bạn không hỗ trợ thẻ video.
-    </video>
+    <a href="https://youtu.be/Pond-cMxaIY?si=F8sWeIOekYqBxkgD">
+        <img src="https://img.youtube.com/vi/Pond-cMxaIY/maxresdefault.jpg" alt="Xem video" style="width: 320px; height: auto;">
+    </a>
 </p>
