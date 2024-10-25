@@ -13,7 +13,5 @@ Không có gì ngoài CTRL V VÀ CTRL C
 - **Cơ sở dữ liệu**: SQL Sever
 - **Công cụ**: Git, Docker, Visual Studio Code
 
-## Dự án nổi bật
-- [**Dự án 1**](https://github.com/Duydzsiuecap/Adidas1): Web bán giầy
 
 Cảm ơn bạn đã ghé thăm!
