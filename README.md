@@ -10,7 +10,7 @@ Không có gì ngoài CTRL V VÀ CTRL C
 
 ## Kỹ năng
 - **Ngôn ngữ lập trình**: Cho Trẻ Con 
-- **Cơ sở dữ liệu**: 
+- **Cơ sở dữ liệu**: SQL Sever
 - **Công cụ**: Git, Docker, Visual Studio Code
 
 ## Dự án nổi bật
